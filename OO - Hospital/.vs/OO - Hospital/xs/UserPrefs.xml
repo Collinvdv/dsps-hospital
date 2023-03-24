@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{59D7CBE7-75C1-4999-8315-7938BAC5031C}|Default">
+  <MonoDevelop.Ide.ItemProperties.OO_220-_220Hospital PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hospital.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Data.cs" />
+      <File FileName="Hospital.cs" Line="35" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OO - Hospital" expanded="True">
+            <Node name="OO - Hospital" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

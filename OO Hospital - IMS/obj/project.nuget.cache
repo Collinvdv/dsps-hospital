@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbBTc1rKcfDApO1hjkz3WlBEOAAyZjgDmWbQe9ERhsG4vmaaNw/DleheL4ATTWmROdI/oMw49LAtwHdtn1U+Og==",
+  "success": true,
+  "projectFilePath": "/Users/collinvandervorst/School/2022/inspiratie-lab/elke/Inspiration-Project-Lab/OO Hospital - IMS/OO Hospital - IMS.csproj",
+  "expectedPackageFiles": [
+    "/Users/collinvandervorst/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
